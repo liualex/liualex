@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liualex
-- 👀 I’m interested in seata/java/mongodb
+- 👀 I’m interested in seata/java/mongodb/springcloud/elasticsearch/kubernates/jenkins
 - 🌱 I’m currently learning seata
 - 💞️ I’m looking to collaborate on 5cii.com
 - 📫 How to reach me mail:121003923@qq.com
